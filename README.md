@@ -15,6 +15,6 @@ InceptionV3 was found to be the most accurate and reliable model for detection t
 
 DenseNet strikes a good balance between accuracy and processing speed.
 
-Applications: This research has direct implications for improving security AI systems in agricultural settings, reducing the need for constant manual supervision, and minimizing crop damage.
+Applications: This project has direct implications for improving security AI systems in agricultural settings, reducing the need for constant manual supervision, and minimizing crop damage.
 
 Check Out the output here:"https://huggingface.co/spaces/aiinnovators4/Animal"
