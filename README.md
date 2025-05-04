@@ -1,6 +1,6 @@
 Wildlife and Human Detection for Farm Security Using AI
 Overview
-This repository contains the code and resources for a project focused on applying Artificial Intelligence (AI) and Deep Learning algorithms to improve security on farmlands by detecting wildlife and humans that pose threats to crops. Fencing and manual surveillance are expensive and time-consuming solutions for farmers, and AI-driven detection systems provide a more efficient, reliable, and cost-effective approach.
+This repository contains the  resources for a project focused on applying Artificial Intelligence (AI) and Deep Learning algorithms to improve security on farmlands by detecting wildlife and humans that pose threats to crops. Fencing and manual surveillance are expensive and time-consuming solutions for farmers, and AI-driven detection systems provide a more efficient, reliable, and cost-effective approach.
 
 In this project, various deep learning models—VGG19, DenseNet, and InceptionV3—are trained and evaluated for their performance in detecting wildlife and human intruders at farm peripheries. The primary goal is to determine which model offers the best accuracy, speed, and adaptability for real-world farm security applications.
 
