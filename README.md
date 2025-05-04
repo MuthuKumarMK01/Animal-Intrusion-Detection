@@ -17,4 +17,6 @@ DenseNet strikes a good balance between accuracy and processing speed.
 
 Applications: This project has direct implications for improving security AI systems in agricultural settings, reducing the need for constant manual supervision, and minimizing crop damage.
 
+Dataset Used:"https://www.kaggle.com/datasets/mkstar1/animal-dataset-with-15-classes-of-animals"
+
 Check Out the output here:"https://huggingface.co/spaces/aiinnovators4/Animal"
